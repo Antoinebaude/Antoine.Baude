@@ -5,7 +5,7 @@ Je suis **Data Analyst orienté métier**, avec une forte appétence pour la **s
 
 Ce portfolio a pour objectif de présenter :
 - mon **parcours professionnel et data**,
-- une sélection de **projets représentatifs**,
+- une sélection de **projets data représentatifs**,
 - ma **posture de consultant** : cadrage du besoin, analyse, restitution et accompagnement.
 
 ---
@@ -49,53 +49,98 @@ Je suis aujourd’hui **Data Analyst**, avec une approche :
 
 ---
 
-## 📊 Projets (accès direct aux livrables)
+## 📊 Projets Data (accès direct)
 
-> 👉 Pour chaque projet, tu as un **repository GitHub** + un dossier **`livrables/`** avec notebooks, rapports, PPT, dashboards, etc.
+> 👉 Chaque projet dispose d’un **repository GitHub** et d’un dossier **`livrables/`**
+> contenant notebooks, dashboards, rapports et présentations.
 
-### 1) 🧾 Analyse des ventes d’une librairie — *Python*
-- Repository : https://github.com/antoinebaude/Projet-9-Analysez-les-ventes-d-une-librairie-avec-R-ou-Python  
-- Livrables : https://github.com/antoinebaude/Projet-9-Analysez-les-ventes-d-une-librairie-avec-R-ou-Python/tree/main/livrables  
+---
 
-### 2) 💧 Étude sur l’eau potable — *Power BI*
-- Repository : https://github.com/antoinebaude/Projet-10-Faites-une-etude-sur-l-eau-potable  
-- Livrables : https://github.com/antoinebaude/Projet-10-Faites-une-etude-sur-l-eau-potable/tree/main/livrables  
+### 🧾 Analyse des ventes d’une librairie — *Python*
+- Repository :
+  <a href="https://github.com/antoinebaude/Projet-9-Analysez-les-ventes-d-une-librairie-avec-R-ou-Python" target="_blank">Voir le repository</a>
+- Livrables :
+  <a href="https://github.com/antoinebaude/Projet-9-Analysez-les-ventes-d-une-librairie-avec-R-ou-Python/tree/main/livrables" target="_blank">Accéder aux livrables</a>
 
-### 3) 👥 Égalité femmes/hommes (RGPD) — *Analyse RH*
-- Repository : https://github.com/antoinebaude/Projet-8-Analysez-des-indicateurs-de-l-egalite-femmes-hommes-en-respect-du-RGPD  
-- Livrables : https://github.com/antoinebaude/Projet-8-Analysez-des-indicateurs-de-l-egalite-femmes-hommes-en-respect-du-RGPD/tree/main/livrables  
+---
 
-### 4) 🧠 Détection de faux billets — *Machine Learning*
-- Repository : https://github.com/antoinebaude/Projet-12-Detectez-des-faux-billets-avec-R-ou-Python  
-- Livrables : https://github.com/antoinebaude/Projet-12-Detectez-des-faux-billets-avec-R-ou-Python/tree/main/livrables  
+### 💧 Étude sur l’eau potable — *Power BI*
+- Repository :
+  <a href="https://github.com/antoinebaude/Projet-10-Faites-une-etude-sur-l-eau-potable" target="_blank">Voir le repository</a>
+- Livrables :
+  <a href="https://github.com/antoinebaude/Projet-10-Faites-une-etude-sur-l-eau-potable/tree/main/livrables" target="_blank">Accéder aux livrables</a>
 
-### 5) 🗂️ Tableau de bord dynamique — *Power BI (suivi de projets)*
-- Repository : https://github.com/antoinebaude/Projet-7-Creez-un-tableau-de-bord-dynamique-avec-Power-BI-pour-visualiser-l-avancement-de-projets  
-- Livrables : https://github.com/antoinebaude/Projet-7-Creez-un-tableau-de-bord-dynamique-avec-Power-BI-pour-visualiser-l-avancement-de-projets/tree/main/livrables  
+---
 
-### 6) 🏠 Base de données immobilière — *SQL*
-- Repository : https://github.com/antoinebaude/Projet-5-Creez-et-utilisez-une-base-de-donnees-immobiliere-avec-SQL  
-- Livrables : https://github.com/antoinebaude/Projet-5-Creez-et-utilisez-une-base-de-donnees-immobiliere-avec-SQL/tree/main/livrables  
+### 👥 Égalité femmes / hommes (RGPD) — *Analyse RH*
+- Repository :
+  <a href="https://github.com/antoinebaude/Projet-8-Analysez-des-indicateurs-de-l-egalite-femmes-hommes-en-respect-du-RGPD" target="_blank">Voir le repository</a>
+- Livrables :
+  <a href="https://github.com/antoinebaude/Projet-8-Analysez-des-indicateurs-de-l-egalite-femmes-hommes-en-respect-du-RGPD/tree/main/livrables" target="_blank">Accéder aux livrables</a>
 
-### 7) 🛒 Analyse de ventes e-commerce — *Python*
-- Repository : https://github.com/antoinebaude/Projet-2-Faites-une-analyse-de-ventes-pour-un-e-commerce  
-- Livrables : https://github.com/antoinebaude/Projet-2-Faites-une-analyse-de-ventes-pour-un-e-commerce/tree/main/livrables  
+---
 
-### 8) 🧩 Requêter une base de données — *SQL*
-- Repository : https://github.com/antoinebaude/Projet-3-Requetez-une-base-de-donnees-avec-SQL  
-- Livrables : https://github.com/antoinebaude/Projet-3-Requetez-une-base-de-donnees-avec-SQL/tree/main/livrables  
+### 🧠 Détection de faux billets — *Machine Learning*
+- Repository :
+  <a href="https://github.com/antoinebaude/Projet-12-Detectez-des-faux-billets-avec-R-ou-Python" target="_blank">Voir le repository</a>
+- Livrables :
+  <a href="https://github.com/antoinebaude/Projet-12-Detectez-des-faux-billets-avec-R-ou-Python/tree/main/livrables" target="_blank">Accéder aux livrables</a>
 
-### 9) 🩺 Étude de santé publique — *Python / R*
-- Repository : https://github.com/antoinebaude/Projet-4-Realisez-une-etude-de-sante-publique-avec-R-ou-Python  
-- Livrables : https://github.com/antoinebaude/Projet-4-Realisez-une-etude-de-sante-publique-avec-R-ou-Python/tree/main/livrables  
+---
 
-### 10) 🧰 Optimisation de la gestion des données d’une boutique — *Python / R*
-- Repository : https://github.com/antoinebaude/Projet-6-Optimisez-la-gestion-des-donnees-d-une-boutique-avec-R-ou-Python  
-- Livrables : https://github.com/antoinebaude/Projet-6-Optimisez-la-gestion-des-donnees-d-une-boutique-avec-R-ou-Python/tree/main/livrables  
+### 📊 Tableau de bord dynamique — *Power BI (suivi de projets)*
+- Repository :
+  <a href="https://github.com/Antoinebaude/Projet-7-Creez-un-tableau-de-bord-dynamique-avec-Power-BI" target="_blank">Voir le repository</a>
+- Livrables :
+  <a href="https://github.com/Antoinebaude/Projet-7-Creez-un-tableau-de-bord-dynamique-avec-Power-BI/tree/main/livrables" target="_blank">Accéder aux livrables</a>
 
-### 11) 🎓 Prise en main du parcours Data Analyst
-- Repository : https://github.com/antoinebaude/Projet-1-Prenez-en-main-votre-formation-de-Data-Analyst  
-- Livrables : https://github.com/antoinebaude/Projet-1-Prenez-en-main-votre-formation-de-Data-Analyst/tree/main/livrables  
+---
+
+### 🏠 Base de données immobilière — *SQL*
+- Repository :
+  <a href="https://github.com/antoinebaude/Projet-5-Creez-et-utilisez-une-base-de-donnees-immobiliere-avec-SQL" target="_blank">Voir le repository</a>
+- Livrables :
+  <a href="https://github.com/antoinebaude/Projet-5-Creez-et-utilisez-une-base-de-donnees-immobiliere-avec-SQL/tree/main/livrables" target="_blank">Accéder aux livrables</a>
+
+---
+
+### 🛒 Analyse de ventes e-commerce — *Python*
+- Repository :
+  <a href="https://github.com/antoinebaude/Projet-2-Faites-une-analyse-de-ventes-pour-un-e-commerce" target="_blank">Voir le repository</a>
+- Livrables :
+  <a href="https://github.com/antoinebaude/Projet-2-Faites-une-analyse-de-ventes-pour-un-e-commerce/tree/main/livrables" target="_blank">Accéder aux livrables</a>
+
+---
+
+### 🧩 Requêter une base de données — *SQL*
+- Repository :
+  <a href="https://github.com/antoinebaude/Projet-3-Requetez-une-base-de-donnees-avec-SQL" target="_blank">Voir le repository</a>
+- Livrables :
+  <a href="https://github.com/antoinebaude/Projet-3-Requetez-une-base-de-donnees-avec-SQL/tree/main/livrables" target="_blank">Accéder aux livrables</a>
+
+---
+
+### 🩺 Étude de santé publique — *Python / R*
+- Repository :
+  <a href="https://github.com/antoinebaude/Projet-4-Realisez-une-etude-de-sante-publique-avec-R-ou-Python" target="_blank">Voir le repository</a>
+- Livrables :
+  <a href="https://github.com/antoinebaude/Projet-4-Realisez-une-etude-de-sante-publique-avec-R-ou-Python/tree/main/livrables" target="_blank">Accéder aux livrables</a>
+
+---
+
+### 🧰 Optimisation de la gestion des données d’une boutique — *Python / R*
+- Repository :
+  <a href="https://github.com/antoinebaude/Projet-6-Optimisez-la-gestion-des-donnees-d-une-boutique-avec-R-ou-Python" target="_blank">Voir le repository</a>
+- Livrables :
+  <a href="https://github.com/antoinebaude/Projet-6-Optimisez-la-gestion-des-donnees-d-une-boutique-avec-R-ou-Python/tree/main/livrables" target="_blank">Accéder aux livrables</a>
+
+---
+
+### 🎓 Prise en main du parcours Data Analyst
+- Repository :
+  <a href="https://github.com/antoinebaude/Projet-1-Prenez-en-main-votre-formation-de-Data-Analyst" target="_blank">Voir le repository</a>
+- Livrables :
+  <a href="https://github.com/antoinebaude/Projet-1-Prenez-en-main-votre-formation-de-Data-Analyst/tree/main/livrables" target="_blank">Accéder aux livrables</a>
 
 ---
 
@@ -113,4 +158,4 @@ Je suis aujourd’hui **Data Analyst**, avec une approche :
 
 📧 Email : *(à compléter)*  
 💼 LinkedIn : *(à compléter)*  
-🐙 GitHub : https://github.com/antoinebaude
+🐙 GitHub : <a href="https://github.com/antoinebaude" target="_blank">https://github.com/antoinebaude</a>
