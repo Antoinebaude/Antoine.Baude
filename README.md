@@ -157,5 +157,5 @@ Je suis aujourd’hui **Data Analyst**, avec une approche :
 ## 📬 Me contacter
 
 📧 Email : antoine.baude@gmail.com  
-💼 LinkedIn : <a href="https://www.linkedin.com/in/antoine-baude-3057984a/</a> 
+💼 LinkedIn : <a href="https://www.linkedin.com/in/antoine-baude-3057984a</a> 
 🐙 GitHub : <a href="https://github.com/antoinebaude" target="_blank">https://github.com/antoinebaude</a>
