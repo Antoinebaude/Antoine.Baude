@@ -56,6 +56,28 @@ Je suis aujourd’hui **Data Analyst**, avec une approche :
 
 ---
 
+### 🧑‍💼 Création d’un portfolio Data Analyst — *Power BI / GitHub*
+- Repository :
+  <a href="https://github.com/antoinebaude/Projet-13-Creez-votre-portfolio-de-professionnel-de-la-data" target="_blank">
+    Voir le repository
+  </a>
+- Livrables :
+  <a href="https://github.com/antoinebaude/Projet-13-Creez-votre-portfolio-de-professionnel-de-la-data/tree/main/livrables" target="_blank">
+    Accéder aux livrables
+  </a>
+
+**Objectif :** concevoir un portfolio professionnel permettant d’évaluer la posture de consultant data, la capacité à structurer un projet, à restituer des analyses et à produire des livrables clairs et pédagogiques.
+
+**Livrables clés :**
+- Page portfolio (GitHub Pages)
+- Dashboard Power BI « CV / Portfolio »
+- Dashboard Power BI « Veille métier & technologique »
+- Cahier des charges fonctionnel
+- Documentation Power BI (guide pas-à-pas)
+- Vidéo de formation Power BI
+
+---
+
 ### 🧾 Analyse des ventes d’une librairie — *Python*
 - Repository :
   <a href="https://github.com/antoinebaude/Projet-9-Analysez-les-ventes-d-une-librairie-avec-R-ou-Python" target="_blank">Voir le repository</a>
